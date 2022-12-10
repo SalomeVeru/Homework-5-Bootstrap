@@ -1,6 +1,14 @@
 .btn-success{
     background-color:#A53DFF
+
+}
+.btn{
+
 }
 img{
-    width: 100%;
+    width: 100%
+}
+.banner_photo{
+    width: 536px;
+    height: 636px;
 }
